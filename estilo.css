@@ -12,4 +12,22 @@ body {
 
 #conteudo {
     background-color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 2%;
+}
+
+a {
+    color: blue;
+    text-decoration: unset;
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+#imgLoja {
+    width: 100%;
 }
